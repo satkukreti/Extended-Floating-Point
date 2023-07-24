@@ -48,6 +48,6 @@ Input : q not recognized as a double...         quitting
 
 ```
 
-## Credit
+## Aknowledgements
 
 This was my favorite project in CS220. The credit for this idea goes to Professor Tom Bartenstein of Binghamton University. The implementation of the code was my own, aside from the starter code given.
