@@ -1,6 +1,6 @@
 # Extended Floating Point
 
-The goal of this assignment is to:
+A text based application that creates a generalized floating point number capability. Can be considered an extension to the standard IEEE standard as my data type has a fractional and exponential portion. The goal of this project was to:
 
 - Learn about IEEE floating point numbers
 - Learn about manipulating bits ("bit twiddling") in C
@@ -21,7 +21,7 @@ For example, a floatx number with 12 total bits and 5 exponent bits would use th
 <tr><th colspan=3>Padding</th><th>S</th><th colspan=5>Exponent</th><th colspan=6>Fraction</th><tr>
 </table>
 
-### Makefile
+## Makefile
 
 Contains the following targets:
 
